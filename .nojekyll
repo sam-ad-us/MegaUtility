@@ -1,1 +1,10 @@
-
+<head>
+  <meta charset="UTF-8">
+  <title>MultiTools - 100+ Free Online Tools</title>
+  <base href="/MegaUtility/">
+  <link rel="stylesheet" href="/MegaUtility/assets/css/style.css">
+  <script src="/MegaUtility/assets/js/main.js"></script>
+</head>
+<base href="/MegaUtility/"> 
+<link rel="stylesheet" href="/MegaUtility/assets/css/style.css">
+<script src="/MegaUtility/assets/js/main.js"></script> 
